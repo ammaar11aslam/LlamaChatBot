@@ -1,4 +1,3 @@
-// MainActivity.kt
 package com.demo.llamachat
 
 import android.content.Intent
