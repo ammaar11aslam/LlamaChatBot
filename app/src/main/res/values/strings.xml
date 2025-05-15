@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Llamachat</string>
+    <string name="type_a_message">Type a message...</string>
+    <string name="send">Send</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome,</string>
+    <string name="lets_chat">Lets Chat!</string>
+    <string name="go">Go</string>
+    <string name="greenarrow">▶</string>
+</resources>
